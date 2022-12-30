@@ -1,0 +1,49 @@
+unit unitCadVeiculo;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.DBCtrls, Vcl.Imaging.pngimage,
+  Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Mask, Vcl.Buttons, Data.DB, Vcl.Grids,
+  Vcl.DBGrids;
+
+type
+  TFormCadVeiculo = class(TForm)
+    Panel1: TPanel;
+    Label1: TLabel;
+    GroupBox1: TGroupBox;
+    Shape1: TShape;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    DBEdit1: TDBEdit;
+    DBEdit2: TDBEdit;
+    DBMemo1: TDBMemo;
+    DBEdit3: TDBEdit;
+    Image1: TImage;
+    GroupBox2: TGroupBox;
+    Shape2: TShape;
+    Label7: TLabel;
+    DBNavigator1: TDBNavigator;
+    Label8: TLabel;
+    DBEdit4: TDBEdit;
+    DBGrid1: TDBGrid;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormCadVeiculo: TFormCadVeiculo;
+
+implementation
+
+{$R *.dfm}
+
+uses unitDB;
+
+end.

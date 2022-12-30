@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/20 14:17:30.000.336,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/12/20 14:22:45.000.957,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitMain.pas</Transaction>
+    <Transaction>2022/12/20 14:22:45.000.957,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitMain.dfm</Transaction>
+    <Transaction>2022/12/20 14:23:19.000.305,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Sistema_Locadora.dproj</Transaction>
+    <Transaction>2022/12/20 14:54:45.000.672,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 14:55:04.000.266,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitCadCliente.dfm</Transaction>
+    <Transaction>2022/12/20 14:55:04.000.266,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitCadCliente.pas</Transaction>
+    <Transaction>2022/12/20 14:56:50.000.766,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit3.pas</Transaction>
+    <Transaction>2022/12/20 14:57:10.000.988,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitCadVeiculo.pas</Transaction>
+    <Transaction>2022/12/20 14:57:10.000.988,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitCadVeiculo.dfm</Transaction>
+    <Transaction>2022/12/20 16:33:39.000.407,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 16:33:56.000.740,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitDB.pas</Transaction>
+    <Transaction>2022/12/20 16:33:56.000.740,C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Locadora de automóveis\unitDB.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
